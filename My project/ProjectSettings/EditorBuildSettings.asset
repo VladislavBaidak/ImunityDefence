@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FPSKit/Scenes/menu.unity
+    guid: 941e5cdd717fdc64daae52a6d5215ea3
+  - enabled: 1
+    path: Assets/FPSKit/Scenes/LevelSelector.unity
+    guid: c91bcf1def7c2934aa45dfe6ce230073
+  - enabled: 1
+    path: Assets/FPSKit/Scenes/ExampleScene.unity
+    guid: cf8af1738c3cb4b488b72c399f7898f8
+  - enabled: 1
+    path: Assets/FPSKit/Scenes/Level1.unity
+    guid: 688203e032e6d2849b1ba9f24b76f3fc
+  - enabled: 1
+    path: Assets/FPSKit/Scenes/Boss.unity
+    guid: 7d54f8db33caeae478021a13bf83a03f
+  - enabled: 1
+    path: Assets/FPSKit/Scenes/GameEnd.unity
+    guid: 45591790adae56f46ab5a022656e4888
+  m_configObjects: {}
